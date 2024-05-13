@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <databaseSettings>
+	  
+	<add
+	    server="luigi"		    
+	    uid="yBQmh6w1qnjd6Edl2K4neg=="	  
+	    port="3306"				 
+	    pwd="GCTdtKVwpbLbT6z5RdyJDw=="
+	    database="bgc_prod_verifier"
+		/>
+  </databaseSettings>
+</configuration>

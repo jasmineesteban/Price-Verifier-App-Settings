@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price-Verifier-App-Settings", "Price-Verifier-App-Settings\Price-Verifier-App-Settings.csproj", "{2F55D374-92D1-4CE7-92D6-9EE0A3386105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F55D374-92D1-4CE7-92D6-9EE0A3386105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F55D374-92D1-4CE7-92D6-9EE0A3386105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F55D374-92D1-4CE7-92D6-9EE0A3386105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F55D374-92D1-4CE7-92D6-9EE0A3386105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5AF5BAF-4D0F-4D59-B78F-859A84019236}
+	EndGlobalSection
+EndGlobal
